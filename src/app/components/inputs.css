@@ -1,0 +1,16 @@
+.has_doller {
+  background-image: url("../images/doller.svg");
+  background-position: left center;
+  background-repeat: no-repeat no-repeat;
+  padding-left: 11px;
+  border-radius: 2px;
+  box-shadow: 1px 1px 2px #666;
+}
+.has_percent {
+  background-image: url("../images/percent.svg");
+  background-position: right center;
+  background-repeat: no-repeat no-repeat;
+  padding-right: 18px !important;
+  border-radius: 2px;
+  box-shadow: 1px 1px 2px #666;
+}
